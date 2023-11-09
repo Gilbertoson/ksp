@@ -1,0 +1,3 @@
+/home/gilbertson/CLionProjects/KSP23/cmake-build-debug/CMakeFiles/KSP23.dir
+/home/gilbertson/CLionProjects/KSP23/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/gilbertson/CLionProjects/KSP23/cmake-build-debug/CMakeFiles/rebuild_cache.dir
