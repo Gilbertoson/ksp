@@ -26,7 +26,7 @@ void validateFile(FILE* fp) {
     }
     //ValidateVersionNumber
     if(getNextFourBytes(fp) != VERSION_NUMBER) {
-        exit(10);
+        exit(10);                                                 //TODO dont ignore version
     }
 }
 
