@@ -122,7 +122,7 @@ void execute(unsigned int ir) {
             break;
         }
         case LT : {
-            lesser_than();
+            push(lesser_than());
             break;
         }case LE : {
             push(lesser_equals());
